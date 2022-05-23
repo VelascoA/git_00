@@ -18,11 +18,11 @@ you, if you change any of this the git program will notice it and compromise you
 
 How doth the little crocodile
 
-    Improve his shining tail, 
+Improve his shining tail, 
      
 And pour the waters of the Nile 
 
-     On every golden scale! 
+On every golden scale! 
   
 How cheerfully he seems to grin, 
 
